@@ -3,7 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications.
-years: [2014,2016,2020]
+years: [2020]
+yearsC: [2014,2016]
 nav: true
 ---
 
@@ -22,7 +23,7 @@ nav: true
 {% endfor %}
 
 <h1 class="post-title"> Conferences and Talks </h1>
-{% for y in page.years %}
+{% for y in page.yearsC %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f conferences -q @*[year={{y}}]* %}
 {% endfor %}
