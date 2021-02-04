@@ -23,7 +23,7 @@ nav: true
 <h1 class="post-title"> Conferences and Talks </h1>
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f working -q @*[year={{y}}]* %}
+  {% bibliography -f conferences -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
