@@ -22,7 +22,7 @@ Engineering Management from the University of Alberta.
 
 My current research projects are related to the design and analysis of planning algorithms for autonomous agents in intra-logistic applications,  efficient algorithms for solving pickup and delivery problems in robotic networks, time series forecasting, machine learning approaches for solving combinatorial problems, and reinforcement learning for dynamic vehicle routing problems. Other research interests are optimization under uncertainty and the interplay between operations research and machine learning.
 
-I have taken courses in operation research, linear optimization, artificial intelligence, non-linear optimization, machine learning, and reinforcement learning (Coursera specialization). I have
+I have
 advanced experience in Python and considerable experience using Julia and MySql. I have use
 optimization solvers and tools like Gurobi, GLPK, AMPL, Pyomo. Other technical strengths
 include Vrep, Latex, Git, and beginner-level experience with cloud computing platforms like
