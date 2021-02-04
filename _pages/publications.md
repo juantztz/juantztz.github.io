@@ -14,7 +14,13 @@ nav: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h1 class="post-title"> Working papers </h1>
+<h1 class="post-title"> Working papers/ Under review </h1>
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f working -q @*[year={{y}}]* %}
+{% endfor %}
+
+<h1 class="post-title"> Conferences and Talks </h1>
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f working -q @*[year={{y}}]* %}
