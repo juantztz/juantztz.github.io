@@ -8,12 +8,13 @@ nav: true
 ---
 
 <div class="publications">
-
+<h1 class="post-title"> Published </h1>
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+<h1 class="post-title"> Working papers </h1>
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
