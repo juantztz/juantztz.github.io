@@ -20,7 +20,7 @@ My name is Juan Tzintzun. I hold BSc. in Industrial engineering
 with a specialization in decision making from the University of Guadalajara and an MSc. in
 Engineering Management from the University of Alberta.
 
-My current research projects are related to the design and analysis of planning algorithms for autonomous agents in intra-logistic applications,  efficient algorithms for solving pickup and delivery problems in robotic networks, time series forecasting, machine learning approaches for solving combinatorial problems, and reinforcement learning for dynamic vehicle routing problems. Other research interests are optimization under uncertainty and the interplay between operations research and machine learning.
+My current research projects are related to the design and analysis of planning algorithms for autonomous agents in intra-logistic applications, time series forecasting, machine learning approaches for solving combinatorial problems, and reinforcement learning for dynamic vehicle routing problems. Other research interests are optimization under uncertainty and the interplay between operations research and machine learning.
 
 I have
 advanced experience in Python and considerable experience using Julia and MySql. I have use
